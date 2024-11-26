@@ -1,5 +1,4 @@
 
-```markdown
 # Perbandingan Ephemeral State Management dan App State Management di Flutter
 
 Pada proyek ini, kita akan membandingkan dua pendekatan dalam mengelola **state** di Flutter, yaitu **Ephemeral State Management** dan **App State Management** menggunakan paket `scoped_model`. Kami akan menunjukkan perbedaan antara keduanya dalam contoh pengelolaan counter sederhana dan membahas keuntungan menggunakan App State Management, terutama pada aplikasi yang lebih besar.
