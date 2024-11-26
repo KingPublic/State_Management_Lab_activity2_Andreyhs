@@ -67,7 +67,7 @@ class _CounterWidgetState extends State<CounterWidget> {
 ### **Observasi**
 - State (`_counter`) dikelola secara lokal di dalam widget.
 - Ketika tombol **Increment** ditekan, nilai `_counter` meningkat, dan UI diperbarui.
-- Namun, state tidak bertahan jika widget dihancurkan atau aplikasi direstart.
+- Namun, state tidak bertahan jika widget dihapus dalam flutter atau aplikasi direstart.
 
 ### **Kesimpulan**
 Ephemeral State cocok untuk:
