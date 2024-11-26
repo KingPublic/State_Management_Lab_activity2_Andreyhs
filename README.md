@@ -1,6 +1,3 @@
-Berikut adalah file README dalam Bahasa Indonesia untuk kedua bagian:
-
----
 
 # Ephemeral State Management dan App State Management dengan Flutter
 
