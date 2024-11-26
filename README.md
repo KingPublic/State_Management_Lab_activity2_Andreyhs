@@ -1,4 +1,3 @@
-Berikut adalah contoh file `README.md` yang membahas perbandingan antara **Ephemeral State Management** dan **App State Management** dengan menggunakan **scoped_model**, serta kelebihan penggunaan App State Management dalam aplikasi Flutter yang lebih besar:
 
 ```markdown
 # Perbandingan Ephemeral State Management dan App State Management di Flutter
