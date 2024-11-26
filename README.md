@@ -183,7 +183,7 @@ Baik **Ephemeral State** maupun **App State Management** memiliki kegunaan masin
 
 ---
 
-Semoga penjelasan ini membantu dalam memahami perbedaan antara **Ephemeral State** dan **App State Management** serta mengapa **App State Management** lebih efektif dalam aplikasi besar. Jika ada pertanyaan lebih lanjut, jangan ragu untuk membuka issue atau menghubungi kami.
+Semoga penjelasan ini membantu dalam memahami perbedaan antara **Ephemeral State** dan **App State Management** serta mengapa **App State Management** lebih efektif dalam aplikasi besar. Jika ada pertanyaan lebih lanjut, jangan ragu untuk membuka issue atau menghubungi KingPublic.
 
 ```
 
