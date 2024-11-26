@@ -88,7 +88,7 @@ Ephemeral State cocok untuk:
   dependencies:
     flutter:
       sdk: flutter
-    scoped_model: ^5.0.0
+    scoped_model: ^5.0.0 //kalau tidak bs karena mmg sdk nya belum ada di versi itu ubah ke ^2.0.0
   ```
 - Jalankan perintah:
   ```bash
